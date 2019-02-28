@@ -9,7 +9,7 @@ from io import BytesIO
 from fastai.vision import *
 import base64
 
-model_file_url = 'https://drive.google.com/uc?export=download&id=1-eUyal29EVGgNyjcHoowJD6Kk-Urz9ba'
+model_file_url = 'https://drive.google.com/uc?export=download&id=1TVxdeI1IGQXPg3xmabf6ShaCGnkFFBTQ'
 model_file_name = 'model'
 classes = ['almond', 'brazil_nut', 'cashew', 'hazelnut', 'macadamia',
            'peanut', 'pecan', 'pine_nut', 'pistachio', 'walnut']
